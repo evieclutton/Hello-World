@@ -1,2 +1,2 @@
 # Hello-World
-Using this repository to learn about and test GitHub essentials branches, commits, and pull requests
+Using this repository to learn about and test GitHub essentials like branches, commits, and pull requests
